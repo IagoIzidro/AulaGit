@@ -1,2 +1,15 @@
 Linha 1
 Linha 2
+Aula de Git - Comandos
+
+git status - Verificar o status do seu repositório
+
+git init - inicializador do repositório git
+
+git add - adiciona arquivos ao working direct
+
+git add . - adiciona todos os arquivos modificados
+
+git commit -m "" - Envia um arquivo finalizado pelo comando commit
+
+git log - exibi quantos commit há
